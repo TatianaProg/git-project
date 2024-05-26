@@ -3,3 +3,6 @@ def hello(argument):
 
 def goodbye(argument):
     print("Googbye, winter")    
+
+def thinks(argument):
+    print("Something for work")    
