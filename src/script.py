@@ -5,4 +5,7 @@ def goodbye(argument):
     print("Googbye, winter")    
 
 def thinks(argument):
-    print("Something for work")    
+    print("Something for work")   
+
+def new_func(argument):
+    print("New function")     
