@@ -10,5 +10,5 @@ def thinks(argument):
 def new_func(argument):
     print("New function")     
 
-def summer(argument):
-    print("Summer: June, July, August")  
+def summerMonths(argument):
+    print("Summer - June, July, August")  
