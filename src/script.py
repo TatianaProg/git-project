@@ -11,4 +11,7 @@ def new_func(argument):
     print("New function")     
 
 def summerMonths(argument):
-    print("Summer - June, July, August")  
+    print("Summer - June, July, August") 
+
+def new(argument):
+    print("Test")     
